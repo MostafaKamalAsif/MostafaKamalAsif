@@ -35,18 +35,11 @@
 
 ---
 
-## 🚀 What I’m Learning Now
-
-- React Hooks & State Management  
-- Mobile-First & Responsive Design  
-- API integration for dynamic projects  
-
----
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]  
-- Portfolio Website: [Your Website URL]  
+- LinkedIn: www.linkedin.com/in/md-mostafa-kamal-front-end-developer 
+ 
 
 ## 🐍 Snake On Contributions
 <picture>
