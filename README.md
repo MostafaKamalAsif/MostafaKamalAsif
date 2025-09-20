@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Mostafa Kamal
 
-🌱 Beginner **Front-End Developer**  
-💻 Building things with HTML, CSS, JavaScript, React.js, Tailwind CSS, and Bootstrap  
+🌱 Beginner **Front-End Developer** from Bangladesh  
+💻 Building projects with **HTML, CSS, JavaScript, React.js, Tailwind CSS, and Bootstrap**  
 🎯 Goal: Become a professional Front-End Developer  
-✨ Always learning & sharing my journey
+✨ Learning new skills every day and sharing my journey  
 
 ---
 
@@ -20,31 +20,47 @@
 ## 📌 Featured Projects
 
 - [Orebi E-commerce Site](https://github.com/MostafaKamalAsif/Orebi-ecommerce-site) – Online shop UI built with JS & CSS  
-- [Developer Portfolio](https://github.com/MostafaKamalAsif/Developer-portfolio-with-tailwind) – My personal portfolio in Tailwind CSS  
-- [Creative Pixels Web Portfolio](https://github.com/MostafaKamalAsif/Creative-Pixels-Web-Portfolio) – Responsive portfolio design  
+- [Developer Portfolio](https://github.com/MostafaKamalAsif/Developer-portfolio-with-tailwind) – Personal portfolio built with Tailwind CSS  
+- [Snake Game](https://github.com/MostafaKamalAsif/snake-game) – Classic Snake Game in HTML, CSS, and JavaScript  
 
 ---
 
-## 🎮 GitHub Stats & Fun
+## 🎮 Snake Game Preview
 
-![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MostafaKamalAsif&show_icons=true&theme=radical)  
+Play the classic Snake Game in your browser!  
 
-![Mostafa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaKamalAsif&layout=compact&theme=radical)  
+[▶️ Play Now](https://MostafaKamalAsif.github.io/snake-game/)  
 
-> Fun Fact: I love building interactive projects and learning new front-end tricks every day!  
+![Snake Game Screenshot](https://raw.githubusercontent.com/MostafaKamalAsif/snake-game/main/screenshot.png) <!-- Replace with your screenshot -->
+
+---
+
+## 💼 Experience
+
+- Completed several **front-end projects** including portfolios and small web apps  
+- Practicing **API integration** and **state management in React**  
+- Learning **responsive & mobile-first design** for modern web  
 
 ---
 
 ## 🚀 What I’m Learning Now
 
-- React Hooks & State Management  
-- Mobile-First & Responsive Design  
-- API integration for dynamic projects  
+- React Hooks & Context API  
+- Advanced JavaScript concepts  
+- Tailwind CSS + Bootstrap for professional UI  
+- Mobile-first & responsive design  
 
 ---
 
 ## 📫 Connect With Me
 
 - LinkedIn: [Your LinkedIn URL]  
-- Portfolio Website: [Your Website URL]  
+- Portfolio Website: [Your Portfolio URL]  
+- GitHub: [https://github.com/MostafaKamalAsif](https://github.com/MostafaKamalAsif)
 
+---
+
+## 📊 GitHub Stats
+
+![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MostafaKamalAsif&show_icons=true&theme=radical)  
+![Mostafa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaKamalAsif&layout=compact&theme=radical)
