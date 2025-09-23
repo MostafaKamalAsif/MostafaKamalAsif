@@ -22,7 +22,7 @@
 - [Orebi E-commerce Site](https://github.com/MostafaKamalAsif/Orebi-ecommerce-site) – Online shop using by React.js 
 - [Developer Portfolio](https://github.com/MostafaKamalAsif/Developer-portfolio-with-tailwind) – Responsive portfolio leadding page in Tailwind CSS  
 - [Creative Pixels Web Portfolio](https://github.com/MostafaKamalAsif/Creative-Pixels-Web-Portfolio) – Responsive portfolio design  in Tailwind CSS
-- [Number Maching Game]( https://mostafakamalasif.github.io/Number-Guessing-Game/) – Number maching game make by using js DOM
+- [Number Giessing Game]( https://mostafakamalasif.github.io/Number-Guessing-Game/) – Number guessing game make by using js DOM
 
 ---
 
