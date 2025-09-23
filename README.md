@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mostafa Kamal
 
-🌱 Beginner **Front-End Developer**  
+🌱  **Front-End Developer**  
 💻 Building things with HTML, CSS, JavaScript, React.js, Tailwind CSS, and Bootstrap  
 🎯 Goal: Become a professional Front-End Developer  
 ✨ Always learning & sharing my journey
