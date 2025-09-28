@@ -19,7 +19,7 @@
 
 ## 📌 Featured Projects
 
-- [Orebi E-commerce Site](https://github.com/MostafaKamalAsif/Orebi-ecommerce-site) – Online shop using by React.js 
+- [Orebi E-commerce Site](https://github.com/MostafaKamalAsif/Orebi-ecommerce-sit) – Online shop using by React.js 
 - [Developer Portfolio](https://github.com/MostafaKamalAsif/Developer-portfolio-with-tailwind) – Responsive portfolio leadding page in Tailwind CSS  
 - [Creative Pixels Web Portfolio](https://github.com/MostafaKamalAsif/Creative-Pixels-Web-Portfolio) – Responsive portfolio design  in Tailwind CSS
 - [Number Giessing Game]( https://mostafakamalasif.github.io/Number-Guessing-Game/) – Number guessing game make by using js DOM
