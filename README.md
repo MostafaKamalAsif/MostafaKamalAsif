@@ -3,7 +3,7 @@
 🌱  **Front-End Developer**  
 💻 Building things with HTML, CSS, JavaScript, React.js, Tailwind CSS, and Bootstrap  
 🎯 Goal: Become a professional Front-End Developer  
-✨ Always learning & sharing my journey
+✨ Always learning & sharing my journey  
 
 ---
 
@@ -19,10 +19,11 @@
 
 ## 📌 Featured Projects
 
-- [Orebi E-commerce Site](https://github.com/MostafaKamalAsif/Orebi-ecommerce-sit) – Online shop using by React.js 
-- [Developer Portfolio](https://github.com/MostafaKamalAsif/Developer-portfolio-with-tailwind) – Responsive portfolio leadding page in Tailwind CSS  
-- [Creative Pixels Web Portfolio](https://github.com/MostafaKamalAsif/Creative-Pixels-Web-Portfolio) – Responsive portfolio design  in Tailwind CSS
-- [Number Giessing Game]( https://mostafakamalasif.github.io/Number-Guessing-Game/) – Number guessing game make by using js DOM
+- [🌐 My Portfolio Website](https://portfolio-liard-seven-91.vercel.app/) – Showcasing my skills, projects, and journey  
+- [Orebi E-commerce Site](https://github.com/MostafaKamalAsif/Orebi-ecommerce-sit) – Online shop using React.js  
+- [Developer Portfolio](https://github.com/MostafaKamalAsif/Developer-portfolio-with-tailwind) – Responsive portfolio landing page in Tailwind CSS  
+- [Creative Pixels Web Portfolio](https://github.com/MostafaKamalAsif/Creative-Pixels-Web-Portfolio) – Responsive portfolio design in Tailwind CSS  
+- [Number Guessing Game](https://mostafakamalasif.github.io/Number-Guessing-Game/) – Number guessing game built with JS DOM  
 
 ---
 
@@ -36,11 +37,12 @@
 
 ---
 
-
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/md-mostafa-kamal-front-end-developer 
- 
+- Portfolio: [portfolio-liard-seven-91.vercel.app](https://portfolio-liard-seven-91.vercel.app/)  
+- LinkedIn: [www.linkedin.com/in/md-mostafa-kamal-front-end-developer](https://www.linkedin.com/in/md-mostafa-kamal-front-end-developer)  
+
+---
 
 ## 🐍 Snake On Contributions
 <picture>
