@@ -19,8 +19,7 @@
 
 ## 📌 Featured Projects
 
--[🌐 My Portfolio Website](https://portfolio-liard-seven-91.vercel.app/) – Showcasing my skills, projects, and journey
-
+- <a href="https://portfolio-liard-seven-91.vercel.app/" target="_blank">🌐 My Portfolio Website</a> – Showcasing my skills, projects, and journey
 - [Orebi E-commerce Site](https://github.com/MostafaKamalAsif/Orebi-ecommerce-sit) – Online shop using React.js  
 - [Developer Portfolio](https://github.com/MostafaKamalAsif/Developer-portfolio-with-tailwind) – Responsive portfolio landing page in Tailwind CSS  
 - [Creative Pixels Web Portfolio](https://github.com/MostafaKamalAsif/Creative-Pixels-Web-Portfolio) – Responsive portfolio design in Tailwind CSS  
@@ -40,7 +39,7 @@
 
 ## 📫 Connect With Me
 
-- Portfolio: [portfolio-liard-seven-91.vercel.app](https://portfolio-liard-seven-91.vercel.app/)  
+- Portfolio: <a href="https://portfolio-liard-seven-91.vercel.app/" target="_blank">portfolio-liard-seven-91.vercel.app</a>  
 - LinkedIn: [www.linkedin.com/in/md-mostafa-kamal-front-end-developer](https://www.linkedin.com/in/md-mostafa-kamal-front-end-developer)  
 
 ---
