@@ -40,15 +40,6 @@
 
 ---
 
-## 🎮 GitHub Stats & Fun
-
-![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MostafaKamalAsif&show_icons=true&theme=radical)  
-
-![Mostafa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaKamalAsif&layout=compact&theme=radical)  
-
-> Fun Fact: I love building interactive projects and learning new front-end tricks every day!  
-
----
 
 ## 📫 Connect With Me
 
