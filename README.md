@@ -1,50 +1,71 @@
-# 👋 Hi, I’m Mostafa Kamal
+# 💫 About Me
 
-🌱  **Front-End Developer**  
-💻 Building things with HTML, CSS, JavaScript, React.js, Tailwind CSS, and Bootstrap  
-🎯 Goal: Become a professional Front-End Developer  
-✨ Always learning & sharing my journey  
+<table align="right">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MostafaKamalAsif&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Mostafa's Stats" />
+    </td>
+  </tr>
+</table>
 
----
+### 👋 Hi, I'm Mostafa Kamal
+**Front-End Developer | React Specialist | UI/UX Enthusiast**
 
-<h2 align="center">🚀 Tech Stack & Skills</h2>
+I am a passionate Front-End Developer dedicated to crafting responsive, modern, and user-friendly web interfaces. I thrive on turning complex problems into elegant, high-performance code.
 
-<p align="center">✨ Passionate about crafting responsive, modern, and user-friendly web interfaces ✨</p>
-
----
-
-### 💻 Front-End Development
-<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Redux_Basics-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> </p>
-
----
-
-### 🎨 Styling & UI Frameworks
-<p align="center"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /> <img src="https://img.shields.io/badge/DaisyUI-5A0EF0?style=for-the-badge&logo=daisyui&logoColor=white" /> <img src="https://img.shields.io/badge/Flowbite-38BDF8?style=for-the-badge&logo=flowbite&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> </p>
+- 🌍  Based in Bangladesh
+- ✉️  Contact me at: [Your Email Here]
+- 🚀  Currently honing my skills in **Next.js** and **Advanced State Management**.
+- 🧠  Believer in lifelong learning and sharing knowledge with the community.
 
 ---
 
-### ⚙️ Tools & Workflow
-<p align="center"> <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
+### 🚀 Tech Stack & Skills
+
+#### 💻 Front-End Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+#### 🎨 Styling & UI Libraries
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF0?style=for-the-badge&logo=daisyui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### ⚙️ Tools & Workflow
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-<h3 align="center">💡 Always learning & building something new!</h3>
+### 📌 Featured Projects
 
-## 📌 Featured Projects
-
-- <a href="https://portfolio-liard-seven-91.vercel.app/" target="_blank">🌐 My Portfolio Website</a> – Showcasing my skills, projects, and journey
-- [Orebi E-commerce Site](https://github.com/MostafaKamalAsif/Orebi-ecommerce-sit) – Online shop using React.js  
-- [Developer Portfolio](https://github.com/MostafaKamalAsif/Developer-portfolio-with-tailwind) – Responsive portfolio landing page in Tailwind CSS  
-- [Creative Pixels Web Portfolio](https://github.com/MostafaKamalAsif/Creative-Pixels-Web-Portfolio) – Responsive portfolio design in Tailwind CSS  
-- [Number Guessing Game](https://mostafakamalasif.github.io/Number-Guessing-Game/) – Number guessing game built with JS DOM  
-
----
-
-
-## 📫 Connect With Me
-
-- Portfolio: <a href="https://portfolio-liard-seven-91.vercel.app/" target="_blank">portfolio-liard-seven-91.vercel.app</a>  
-- LinkedIn: [www.linkedin.com/in/md-mostafa-kamal-front-end-developer](https://www.linkedin.com/in/md-mostafa-kamal-front-end-developer)  
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **🌐 Portfolio** | My personal space on the web. | React, Tailwind | [View](https://portfolio-liard-seven-91.vercel.app/) |
+| **🛒 Orebi E-com** | Full-featured e-commerce shop. | React, Redux | [Code](https://github.com/MostafaKamalAsif/Orebi-ecommerce-sit) |
+| **🎨 Creative Pixels** | Modern Agency Portfolio. | Tailwind CSS | [Code](https://github.com/MostafaKamalAsif/Creative-Pixels-Web-Portfolio) |
+| **🎮 Number Game** | Fun logic-based JS game. | JS DOM | [Live](https://mostafakamalasif.github.io/Number-Guessing-Game/) |
 
 ---
 
+### 📊 GitHub Activity
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaKamalAsif&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/md-mostafa-kamal-front-end-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mostafa Kamal" height="30" width="40" /></a>
+<a href="https://portfolio-liard-seven-91.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
+</p>
+
+<p align="center">⭐️ From <b>Mostafa Kamal</b></p>
