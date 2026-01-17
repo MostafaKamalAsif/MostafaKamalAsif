@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mostafa+Kamal+%F0%9F%91%8B;Senior+Front-End+Engineer;UI%2FUX+Architect;React+%7C+Next.js+%7C+Performance+Driven" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MostafaKamalAsif&label=PROFILE+VIEWS&color=70A5FD&style=for-the-badge" alt="Views" />
-</p>
-
 ---
 
 ## 💫 About Me
@@ -20,7 +16,7 @@
   </tr>
 </table>
 
-### 👋 Senior Front-End Developer | UI/UX Architect
+### 👋  Front-End Developer | UI/UX Architect
 
 I design and engineer **high-performance, conversion-focused** digital products using modern front-end architecture. My work blends performance engineering, clean code, and pixel-perfect design.
 
@@ -69,11 +65,43 @@ I design and engineer **high-performance, conversion-focused** digital products 
 | ⚡ **Creative Pixels** | UI Engineer | Responsive Design Systems | [🎨 Code](https://github.com/MostafaKamalAsif/Creative-Pixels-Web-Portfolio) |
 
 ---
+## 📊 Engineering Metrics & Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MostafaKamalAsif&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="100%" />
+</p>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MostafaKamalAsif&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MostafaKamalAsif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Weekly Coding Focus
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MostafaKamalAsif&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MostafaKamalAsif&theme=tokyonight" />
+</p>
+
+---
+
 
 ## 📊 Activity & Achievements
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaKamalAsif&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MostafaKamalAsif&theme=tokyonight&area=true&hide_border=true" width="850" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-five.vercel.app/?user=MostafaKamalAsif&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=MostafaKamalAsif&label=PROFILE+VIEWS&color=70A5FD&style=flat-square" />
 </p>
 
 <p align="center">
