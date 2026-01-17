@@ -13,9 +13,9 @@
 <table align="right">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MostafaKamalAsif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MostafaKamalAsif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaKamalAsif&layout=compact&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MostafaKamalAsif&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -34,14 +34,14 @@ I design and engineer **high-performance, conversion-focused** digital products 
 
 ## 🏆 Engineering Proficiency
 
-**Front-End Engineering**  
-![Front-End Engineering](https://img.shields.io/badge/Front--End%20Engineering-88%25-brightgreen)
+**Front-End Engineering**
+![Progress](https://geps.dev/progress/85)
 
-**React & Ecosystem**  
-![React & Ecosystem](https://img.shields.io/badge/React%20%26%20Ecosystem-85%25-yellowgreen)
+**React & Ecosystem**
+![Progress](https://geps.dev/progress/80)
 
-**Modern UI (Tailwind / Shadcn / Design Systems)**  
-![Modern UI](https://img.shields.io/badge/Modern%20UI-92%25-green)
+**Modern Styling**
+![Progress](https://geps.dev/progress/90)
 
 
 ---
@@ -49,7 +49,7 @@ I design and engineer **high-performance, conversion-focused** digital products 
 ## 🏅 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MostafaKamalAsif&theme=darkhub&no-frame=true&margin-w=10&row=1&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MostafaKamalAsif&show_icons=true&theme=dark" alt="Mostafa's GitHub Stats" />
 </p>
 
 ---
