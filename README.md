@@ -93,24 +93,6 @@ I design and engineer **high-performance, conversion-focused** digital products 
 ---
 
 
-## 📊 Activity & Achievements
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MostafaKamalAsif&theme=tokyonight&area=true&hide_border=true" width="850" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-five.vercel.app/?user=MostafaKamalAsif&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://komarev.com/ghpvc/?username=MostafaKamalAsif&label=PROFILE+VIEWS&color=70A5FD&style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Daily%20Commits-Active-orange?style=for-the-badge&logo=github" /> 
-  <img src="https://img.shields.io/badge/Contributions-Verified-blueviolet?style=for-the-badge&logo=git" />
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -127,4 +109,5 @@ I design and engineer **high-performance, conversion-focused** digital products 
   </a>
 </p>
 
-<p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.”</i></p>
+<p align="center"><i>“Code never lies, comments sometimes do.”</i></p>
+
