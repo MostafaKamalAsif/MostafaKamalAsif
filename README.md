@@ -1,4 +1,14 @@
-# 💫 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mostafa+Kamal+%F0%9F%91%8B;Senior+Front-End+Engineer;UI%2FUX+Architect;React+%7C+Next.js+%7C+Performance+Driven" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MostafaKamalAsif&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 💫 About Me
 
 <table align="right">
   <tr>
@@ -13,11 +23,41 @@
 ### 👋 Hi, I'm Mostafa Kamal  
 **Senior-Focused Front-End Developer | UI/UX Architect**
 
-I don't just write code — I craft high-performance digital experiences. My focus is on building clean, scalable, and maintainable React/Next.js applications that convert visitors into users.
+I design and engineer **high-performance, conversion-focused** digital products using modern front-end architecture. My work blends performance engineering, clean code, and pixel-perfect design.
+
+- 🚀 **Performance:** Obsessed with Lighthouse scores & Core Web Vitals  
+- 🎨 **Design:** Figma-to-React precision with scalable design systems  
+- 🛠️ **Reliability:** CI/CD pipelines, Git mastery, and production-grade deployments  
+- 🧠 **Architecture:** Modular, testable, and maintainable codebases  
 
 ---
 
-## 📊 GitHub Activity
+## 🏆 Engineering Proficiency
+
+**Front-End Engineering**  
+![Progress](https://geps.dev/progress/88?dangerColor=800000&warningColor=ff0000&successColor=00ff00)
+
+**React & Ecosystem**  
+![Progress](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff0000&successColor=00ff00)
+
+**Modern UI (Tailwind / Shadcn / Design Systems)**  
+![Progress](https://geps.dev/progress/92?dangerColor=800000&warningColor=ff0000&successColor=00ff00)
+
+---
+
+## 🏅 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MostafaKamalAsif&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" />
+</p>
+
+---
+
+## 📊 Code & Commit Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MostafaKamalAsif&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MostafaKamalAsif&theme=tokyonight&hide_border=true" />
@@ -25,44 +65,35 @@ I don't just write code — I craft high-performance digital experiences. My foc
 
 ---
 
-## 🏆 Proficiency Level
+## 📌 Featured Engineering
 
-**Front-End Engineering**  
-![Progress](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff0000&successColor=00ff00)
-
-**React & Ecosystem**  
-![Progress](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff0000&successColor=00ff00)
-
-**Modern Styling (Tailwind / Shadcn UI)**  
-![Progress](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff0000&successColor=00ff00)
+| Project | Role | Tech Stack | Demo |
+|--------|------|------------|------|
+| 🌐 **Next-Gen Portfolio** | Lead Engineer | Next.js, Framer Motion, SEO | [Visit](https://portfolio-liard-seven-91.vercel.app/) |
+| 🛒 **Orebi E-commerce** | Fullstack Dev | Redux Toolkit, Auth, REST API | [Code](https://github.com/MostafaKamalAsif/Orebi-ecommerce-sit) |
+| ⚡ **Creative Pixels** | UI Engineer | Responsive Design, UX Systems | [Code](https://github.com/MostafaKamalAsif/Creative-Pixels-Web-Portfolio) |
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Role | Tech | Demo |
-|--------|------|------|------|
-| 🌐 Portfolio | Lead Dev | Next.js, Framer Motion | [Visit](https://portfolio-liard-seven-91.vercel.app/) |
-| 🛒 Orebi E-com | Fullstack | Redux Toolkit, Auth, API | [Code](https://github.com/MostafaKamalAsif/Orebi-ecommerce-sit) |
-
----
-
-## 💻 Tech Stack
+## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,git,github,vercel,vscode" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/md-mostafa-kamal-front-end-developer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/md-mostafa-kamal-front-end-developer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:mostafa.kamal.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:mostafa.kamal.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-liard-seven-91.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
