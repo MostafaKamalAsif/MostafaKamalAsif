@@ -21,7 +21,7 @@
 </table>
 
 ### 👋 Hi, I'm Mostafa Kamal  
-**Senior-Focused Front-End Developer | UI/UX Architect**
+**Focused Front-End Developer | UI/UX Architect**
 
 I design and engineer **high-performance, conversion-focused** digital products using modern front-end architecture. My work blends performance engineering, clean code, and pixel-perfect design.
 
@@ -35,20 +35,21 @@ I design and engineer **high-performance, conversion-focused** digital products 
 ## 🏆 Engineering Proficiency
 
 **Front-End Engineering**  
-![Progress](https://geps.dev/progress/88?dangerColor=800000&warningColor=ff0000&successColor=00ff00)
+![Front-End Engineering](https://img.shields.io/badge/Front--End%20Engineering-88%25-brightgreen)
 
 **React & Ecosystem**  
-![Progress](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff0000&successColor=00ff00)
+![React & Ecosystem](https://img.shields.io/badge/React%20%26%20Ecosystem-85%25-yellowgreen)
 
 **Modern UI (Tailwind / Shadcn / Design Systems)**  
-![Progress](https://geps.dev/progress/92?dangerColor=800000&warningColor=ff0000&successColor=00ff00)
+![Modern UI](https://img.shields.io/badge/Modern%20UI-92%25-green)
+
 
 ---
 
 ## 🏅 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MostafaKamalAsif&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MostafaKamalAsif&theme=darkhub&no-frame=true&margin-w=10&row=1&column=7" />
 </p>
 
 ---
@@ -56,11 +57,8 @@ I design and engineer **high-performance, conversion-focused** digital products 
 ## 📊 Code & Commit Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MostafaKamalAsif&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MostafaKamalAsif&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Daily%20Commits-Fire%20Emoji%20%F0%9F%94%A5-yellow" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-365%20Days-brightgreen" />
 </p>
 
 ---
