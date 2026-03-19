@@ -43,7 +43,7 @@ I design and engineer **high-performance, user-focused digital experiences**. My
 <summary><b>Core Development</b></summary>
 <br/>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,typescript,postman" />
 </p>
 </details>
 
