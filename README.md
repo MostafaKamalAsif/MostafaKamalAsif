@@ -61,10 +61,9 @@ I design and engineer **high-performance, user-focused digital experiences**. My
 
 | Project | Role | Tech Stack | Demo |
 |--------|------|------------|------|
-| 🌐 **Next-Gen Portfolio** | Lead Engineer | Next.js, Framer Motion | [🚀 Live](https://portfolio-liard-seven-91.vercel.app/) |
+| 🌐 ** Portfolio** | Lead Engineer | Next.js, Framer Motion | [🚀 Live](https://portfolio-liard-seven-91.vercel.app/) |
+| 🛒 **Magcubic E-commerce** | Fullstack Dev | Redux Toolkit, REST API | [📦 Code](https://magcubic.vercel.app/) |
 | 🛒 **Orebi E-commerce** | Fullstack Dev | Redux Toolkit, REST API | [📦 Code](https://github.com/MostafaKamalAsif/Orebi-ecommerce-sit) |
-| ⚡ **Creative Pixels** | UI Engineer | Responsive Design | [🎨 Code](https://github.com/MostafaKamalAsif/Creative-Pixels-Web-Portfolio) |
-
 ---
 
 ## 📊 GitHub Activity
