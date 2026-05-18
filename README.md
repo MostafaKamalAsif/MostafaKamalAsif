@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mostafa+Kamal+%F0%9F%91%8B;Front-End+Engineer;UI%2FUX+Architect;React+%7C+Next.js+%7C+Performance+Driven" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mostafa+Kamal+%F0%9F%91%8B;Front-End+Developer;UI%2FUX+Architect;React+%7C+Next.js+%7C+Performance+Driven" alt="Typing SVG" />
 </p>
 
 ---
@@ -62,7 +62,7 @@ I design and engineer **high-performance, user-focused digital experiences**. My
 | Project | Role | Tech Stack | Demo |
 |--------|------|------------|------|
 | 🌐 ** Portfolio** | Lead Engineer | Next.js, Framer Motion | [🚀 Live](https://portfolio-liard-seven-91.vercel.app/) |
-| 🛒 **Magcubic E-commerce** | Fullstack Dev | Redux Toolkit, REST API | [📦 Code](https://magcubic.vercel.app/) |
+| 🛒 **Magcubic E-commerce** | Fullstack Dev | Redux Toolkit, REST API | [🚀 Live](https://magcubic.vercel.app/) |
 | 🛒 **Orebi E-commerce** | Fullstack Dev | Redux Toolkit, REST API | [📦 Code](https://github.com/MostafaKamalAsif/Orebi-ecommerce-sit) |
 ---
 
